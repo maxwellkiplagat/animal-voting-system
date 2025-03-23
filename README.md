@@ -1,1 +1,1 @@
-# animal-voting-system
+This project is a simple test of knowledge on my understing of HTML,CSS,JS and communuication to the server using the HTTP requests that is: GET,PATCH/PUT,FETCH and DELETE. The whole operation is about voting for the cutest animal in the page where a user enters the number of votes which will determine the number of ranking of the animals. we also have the reset button to reset the number of votes that were applied if at any moment we need to redo the voting.
